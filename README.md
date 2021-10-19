@@ -42,6 +42,6 @@ The dasboard result:
 
 Full Interactive Dashboard : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=59256ecc-09db-44af-b5f1-b82666d93388&autoAuth=true&ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
-[See All Files](https://github.com/raihanfirdausx/Global-Superstore)
+[See All Files](https://github.com/raihanfirdausx/ecommerce-logistic)
 
 [<--See other projects](https://raihanfirdausx.github.io/#[object%20Object])
