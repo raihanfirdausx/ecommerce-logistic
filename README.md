@@ -20,7 +20,7 @@ The database's entity-relationship (ER) from which the data is taken can be seen
 ![](/images/er.jpeg)
 
 ## Data Cleansing & Transformation
-Because the database is still so simple, we don't need too complicated queries to get the required data. Below is the SQL query for the data:
+We must clean and transform the data required from database. Below is the SQL query for the data:
 
 ![](/images/sql1.jpeg)
 ![](/images/sql2.jpeg)
