@@ -40,7 +40,7 @@ The dasboard result:
 ![](/images/dash2.jpeg)
 
 
-Full Interactive Dashboard : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=9e7ea17a-75ef-4cb1-ac9f-5f45f5336a60&autoAuth=true&ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+Full Interactive Dashboard : [Dashboard](https://app.powerbi.com/reportEmbed?reportId=59256ecc-09db-44af-b5f1-b82666d93388&autoAuth=true&ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
 [See All Files](https://github.com/raihanfirdausx/Global-Superstore)
 
