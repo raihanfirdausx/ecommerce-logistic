@@ -6,13 +6,13 @@ In this project, i will try to demonstrate an end-to-end data analyst/business i
 ## Business Request & Demand Overview
 In every data analytics/business inteliigence project, there must be a business request and demand overview from the user who will take advantage of the result/output. The user request for this project can be seen as below:
 
-![](/images/bizdem1.jpeg)
-![](/images/bizdem2.jpeg)
-![](/images/bizdem3.jpeg)
+![](/images/bizreq.jpeg)
 
 Hence, below is the business demand overview for the requested and additional information:
 
-![](/images/bizreq.jpeg)
+![](/images/bizdem1.jpeg)
+![](/images/bizdem2.jpeg)
+![](/images/bizdem3.jpeg)
 
 ## Database ER Diagram
 The database's entity-relationship (ER) from which the data is taken can be seen below:
